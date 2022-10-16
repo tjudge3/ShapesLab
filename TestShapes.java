@@ -1,3 +1,5 @@
+//Assignment was to help understand interfaces
+//In this case we used shapes 
 import java.text.DecimalFormat;
 import java.util.*;
 
